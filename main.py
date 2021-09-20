@@ -1,1 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
+#define a function called woof() that returns "Woof"
+def woof():
+    return "Woof"
